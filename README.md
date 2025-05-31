@@ -8,6 +8,6 @@ The Scope of this project entails conduction an in-depth analysis of the dataset
 AtliQ Hardware is currently facing performance challenges due to the increasing size and complexity of its Excel files. To address this, the company has formed a dedicated team of data analysts to leverage MySQL for extracting valuable insights and enhancing operational efficiency.
 
 ## 📌 Tools Used
-MySQL: For querying and transforming raw data to extract the insights.
-Excel: For data preprocessing and visualization.
+### MySQL: For querying and transforming raw data to extract the insights.
+###Excel: For data preprocessing and visualization.
 
