@@ -19,7 +19,7 @@ WHERE
         AND GET_FISCAL_YEAR(date) = 2021
 ORDER BY sm.date ASC
 
-#Chroma Yearly Gross Sales Report
+# Chroma Yearly Gross Sales Report
 SELECT 
     gp.fiscal_year,
     SUM(ROUND(gp.gross_price * sm.sold_quantity, 2)) AS total_gross_price
@@ -33,7 +33,7 @@ WHERE
 GROUP BY gp.fiscal_year
 ORDER BY gp.fiscal_year ASC
 
-#Top 5 Markets
+# Top 5 Markets
 SELECT 
 	market, ROUND(SUM(net_sales) / 1000000, 2) AS net_sales_mln
 FROM
@@ -44,7 +44,7 @@ GROUP BY market
 ORDER BY net_sales_mln DESC
 LIMIT 5
 
-#TOP 5 Products
+# TOP 5 Products
 SELECT 
 	product,
 	ROUND(SUM(net_sales) / 1000000, 2) AS net_sales_mln
@@ -56,7 +56,7 @@ GROUP BY product
 ORDER BY net_sales_mln DESC
 LIMIT 5
 
-#TOP 5 Customers
+# TOP 5 Customers
 SELECT 
 	c.customer,
 	ROUND(SUM(net_sales) / 1000000, 2) AS net_sales_mln
@@ -70,7 +70,7 @@ GROUP BY c.customer
 ORDER BY net_sales_mln DESC
 LIMIT 5
 
-#Net Sales % Report
+# Net Sales % Report
 with cte1 as (SELECT
 		c.customer,
 		c.region,
@@ -91,7 +91,7 @@ with cte1 as (SELECT
 	from cte3
 	where drnk <= 4
 
-#Forecast Accuracy Comparision
+# Forecast Accuracy Comparision
 with cte20 as (SELECT 
 		e.*, 
         dt.fiscal_year,
