@@ -1,7 +1,7 @@
 # AtliQ-Hardware-Consumer-Ad-HOC-Insights
 This project provides the insights of consumer asked as Ad-HOC requests for AtliQ Hardware company.
 
-#📌 Project Overview
+#@📌 Project Overview
 The Scope of this project entails conduction an in-depth analysis of the dataset provided by AtliQ Hardware. The primary goal is to derive actionable insights regarding sales performance, market dynamics, customer behavior, and to forecast supply chain trends.
 
 ###📌 Problem Statement
