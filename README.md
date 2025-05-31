@@ -9,5 +9,5 @@ AtliQ Hardware is currently facing performance challenges due to the increasing 
 
 📌 Tools Used
 MySQL: For querying and transforming raw data to extract the insights.
-Excel: For data preprocessing and visualization.
+Excel: For data preprocessing and visualization
 
