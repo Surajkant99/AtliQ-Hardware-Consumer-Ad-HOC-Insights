@@ -18,7 +18,7 @@ AtliQ Hardware is currently facing performance challenges due to the increasing 
 - Market Trend Analysis: Market insights can help expanding markets appropriately.
 - Supply Chain: Forecast accuracy could help managing the availability of products.
 
-## 📌 Key Project Achievements
+## 🔑 Key Project Achievements
 - Developed comprehensive reports highlighting sales, top-performing markets, products, and customer segments and forecast accuracy comparision.
 - Analyzed net sales percentage share across various regions to guide strategic decisions.
 - Utilized insights to derive effective business strategies and enhance decision-making processes.
