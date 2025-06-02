@@ -27,3 +27,8 @@ AtliQ Hardware is currently facing performance challenges due to the increasing 
 This project has not only enhanced my technical skills in SQL and data analysis but also provided valuable insights into business analytics, contributing to the development of impactful business strategies.
 
 I am thrilled about the outcomes of this project and the potential it holds to drive meaningful business decisions at AtliQ Hardware. Thank you for visiting this repository! Feel free to explore the project files and reach out for any inquiries or collaborations.
+
+## 📞 Contact
+- [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
+- [Linkedin](https://www.linkedin.com/in/surajkant9/)
+- [Email](mailto:surajkant264@gmail.com)
