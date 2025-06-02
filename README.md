@@ -28,7 +28,7 @@ This project has not only enhanced my technical skills in SQL and data analysis 
 
 I am thrilled about the outcomes of this project and the potential it holds to drive meaningful business decisions at AtliQ Hardware. Thank you for visiting this repository! Feel free to explore the project files and reach out for any inquiries or collaborations.
 
-## 📞 Contact
+## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
 - [Linkedin](https://www.linkedin.com/in/surajkant9/)
 - [Email](mailto:surajkant264@gmail.com)
